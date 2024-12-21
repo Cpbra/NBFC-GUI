@@ -1,6 +1,6 @@
 # NBFC-GUI
 
-it's my simple program to use nbfc in gui, i made it because nbfc-qt don't work(maybe i just don't know how to install)
+it's my simple program to use [NBFC-Linux](https://github.com/nbfc-linux/nbfc-linux) in gui, i made it because nbfc-qt don't work(maybe i just don't know how to install)
 
 # Prerequisites
 
